@@ -37,8 +37,8 @@ I'm a passionate software developer specialized in embedded technologies. Curren
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [My profile](www.linkedin.com/in/andreaantonioferrario)
+- **Email:** andreaferrario02@gmail.com
 
 ---
 
