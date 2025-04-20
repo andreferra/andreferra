@@ -37,7 +37,7 @@ I'm a passionate software developer specialized in embedded technologies. Curren
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Andrea Ferrario](www.linkedin.com/in/andreaantonioferrario)
+- **LinkedIn:** [Andrea Ferrario](https://www.linkedin.com/in/andreaantonioferrario)
 - **Email:** andreaferrario02@gmail.com
 
 ---
