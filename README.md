@@ -15,7 +15,7 @@ I'm a passionate software developer specialized in embedded technologies. Curren
 - **Languages:** `Python`, `C`, `C++`, `JavaScript`, `Dart`
 - **Frameworks & Platforms:** `Flutter`, `Node.js`, `React`, `Next.js`
 - **Version Control:** `Git`, `Bitbucket`, `GitHub`, `GitLab`
-- **Other Tools:** `Docker`, `Firebase`, `VSCode`, `CMake`
+- **Other Tools:** `Docker`, `Firebase`, `CMake`, `CMake`
 
 <!--
 ---
@@ -29,11 +29,6 @@ I'm a passionate software developer specialized in embedded technologies. Curren
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andreferra&show_icons=true&theme=radical)
-
----
 
 ## 📬 Connect With Me
 
